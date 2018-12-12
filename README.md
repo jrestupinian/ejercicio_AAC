@@ -55,8 +55,10 @@ CLASE: Segmentación de la cabina de acuerdo a la tarifa
 MOTIVO: Motivo registrado, disrupción operativa
 
 MONTO: Valor en Euros entregado al pasajero
+
 -----------------------------------------------------------------------------------------------------
 Archivo: airport-codes.csv
+-----------------------------------------------------------------------------------------------------
 
 Descripción: Registros con información adicional de Aeropuertos
 
