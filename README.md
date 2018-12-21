@@ -13,7 +13,7 @@ Para ello se le ha contratado a usted como consultor y se le pide lo siguiente, 
 -----------------------------------------------------------------------------------------------------
 Resolución:
 
-Se le ha citado el día lunes 11 de septiembre, cuenta con un espacio de 10 min, para presentar y fundamentar sus resultados. 
+Se le ha citado el día viernes XX de Enero 2019, cuenta con un espacio de 10 min, para presentar y fundamentar sus resultados. 
 Nota: Puede traer su laptop, utilizar las herramientas que considere pertinentes.
 
 -----------------------------------------------------------------------------------------------------
