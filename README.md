@@ -13,7 +13,7 @@ Para ello se le ha contratado a usted como consultor y se le pide lo siguiente, 
 -----------------------------------------------------------------------------------------------------
 Resolución:
 
-Usted recibirá una cita por parte de Talento Humano para asistir a una dinámica grupal, en esta desarrollará diversas actividad y al finalizar contará con un espacio de 10 min, para presentar y fundamentar sus resultados. Nota: Puede traer su laptop, utilizar las herramientas que considere pertinentes.  
+Usted contará con un espacio de 10 min, para presentar y fundamentar sus resultados. Nota: Puede utilizar las herramientas que considere pertinentes.  
 
 -----------------------------------------------------------------------------------------------------
 Recomendaciones para el ejercicio:
